@@ -2,214 +2,216 @@
 {
 	">>> Map by Moray <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Moray 汉化：拉远方の本初子母线 借鉴 一只恶意卖萌的夕雨**"
 	}
 	">>> Thanks to nano (Help & Ideas) <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：nano 的创意和帮助**"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间剩余30秒**"
 	}
 	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间剩余20秒**"
 	}
 	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间剩余10秒**"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间剩余40秒**"
 	}
 	">>> WARMUP ROUND END <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身结束**"
 	}
 	">>> STAGE 1 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	">>> ENTRANCE DOOR OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门正在打开**"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守25秒**"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后挂机僵尸传送**"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20秒**"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后挂机僵尸传送**"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了飓权杖**"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒**"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守5秒**"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了烈权杖**"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒**"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了寒冰权杖**"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**毒蛛出现在了倒塌的书架上**"
 	}
 	">>> SPIDER USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
 	}
 	">>> SPIDER IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**毒蜘蛛被我们击退了 但我们并没有安全保持警惕**"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后挂机僵尸传送**"
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门关上了 我们安全了**"
 	}
 	">>> STAGE 1 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成**"
 	}
 	">>> STAGE 2 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了雷霆权杖**"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了补给权杖**"
 	}
 	">>> STAGE 2 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成**"
 	}
 	">>> STAGE 3 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关**"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了僵尸治疗**"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守35秒**"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了圣光权杖**"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们找的就是这只巨龙！击败它！**"
 	}
 	">>> DRAGON USED GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙施放了重力攫取，抵抗它的吸力别被吸进它脚下的火场里了！**"
 	}
 	">>> DRAGON USED WATER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了水**"
 	}
 	">>> DRAGON USED FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙施放了火**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙被我们打败了 快跑向下一个地点**"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后打开**"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**最后5秒了**"
 	}
 	">>> RUN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！**"
 	}
 	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人正在追我们 快跑向安全地带**"
 	}
 	">>> SHOOT DRAGON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**向那只龙射击！！！**"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后挂机僵尸传送**"
 	}
 	">>> STAGE 3 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成**"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了治愈权杖**"
 	}
 	">>> TROLL IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**那是一只来意不善的食人魔！**"
+		"ico"		"icon_fire"
 	}
 	">>> TROLL IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们击败了这只食人魔**"
 	}
 	">>> ITS DRAGON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**那只巨龙挡住了我们的去路！我们得尝试击退它！**"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了治愈权杖**"
 	}
 	">>> DRAGON USED PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了推**"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了毒**"
 	}
 }
