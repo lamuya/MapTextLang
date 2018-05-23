@@ -83,6 +83,7 @@
 	">>> SPIDER USED POISON <<<"
 	{
 		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
+		"ico"		"icon_fire"
 	}
 	">>> SPIDER IS DEFEATED <<<"
 	{
@@ -143,10 +144,12 @@
 	">>> DRAGON USED GRAVITY <<<"
 	{
 		"chi"		"**巨龙施放了重力攫取，抵抗它的吸力别被吸进它脚下的火场里了！**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED WATER <<<"
 	{
 		"chi"		"**巨龙使用了水**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED FIRE <<<"
 	{
@@ -201,6 +204,7 @@
 	">>> ITS DRAGON <<<"
 	{
 		"chi"		"**那只巨龙挡住了我们的去路！我们得尝试击退它！**"
+		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
@@ -209,9 +213,11 @@
 	">>> DRAGON USED PUSH <<<"
 	{
 		"chi"		"**巨龙使用了推**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
 		"chi"		"**巨龙使用了毒**"
+		"ico"		"icon_fire"
 	}
 }
